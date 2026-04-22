@@ -4,7 +4,7 @@
 **Auteurs :** Mohamed Ramy Boulkaraa | Aksil Abdelkhalek  
 **Cours :** 031119 IFM — Projet Capstone IA  
 **Professeure :** Stéphanie N. Kahindo  
-**MLflow public :** https://dagshub.com/boulkaraamohamedramy/capstone-ia-groupe8.mlflow
+
 
 ---
 
