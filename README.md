@@ -58,8 +58,7 @@ Message client
 
 ## Résultats — Tableau de bord MLflow
 
-**9 runs enregistrés sur DagsHub :**  
-🔗 https://dagshub.com/boulkaraamohamedramy/capstone-ia-groupe8.mlflow
+
 
 | Module | Run | Approche | Accuracy | F1 Macro | Métrique cible |
 |--------|-----|----------|----------|----------|----------------|
